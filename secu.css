@@ -1,0 +1,55 @@
+
+div#barra-lateral{
+	position:fixed;
+	width:65px;
+	height:150%;
+	background-color:#2E4053 ;
+	overflow:hidden;
+	-webkit-transition:width 0.5s cubic-bezier(.61,.01,.37,1);
+}
+
+div#barra-lateral:hover{
+	width:180px;
+}
+
+div.contenedor-logos{
+	margin-top:50px;
+	margin-left:20px;
+	width:130px;
+	height:40px;
+	
+}
+p.title-menu{
+	margin-left:90px;
+	line-height: 40px;
+}
+h1{
+    font-size: 50px;
+    color:#5499C7 ;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+	font-size: 30px;
+    color:#5499C7 ;
+    font-family: 'Times New Roman', Times, serif;	
+}
+h3{
+    font-size: 25px;
+    color:white;
+    font-family: cursive;
+}
+p,a,li{
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cuadrado{
+   width: 550px;
+ padding: 10px;
+ margin-left: 200px;
+ margin-top: 20px;
+ background-color: white;
+}
+a{
+    margin-left: 55px;
+    color:black;
+}

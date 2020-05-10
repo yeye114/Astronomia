@@ -1,0 +1,25 @@
+.cuadrado{
+    width: 700px;
+    padding: 10px;
+    margin:auto;
+    margin-top: 20px;
+    background-color: white;
+}
+h1{
+    font-size: 50px;
+    color:#5499C7 ;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+	font-size: 30px;
+    color:#5499C7 ;
+    font-family: 'Times New Roman', Times, serif;	
+}
+p,a,li{
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn-outline-info{
+    width: 100px;
+    margin-left: 100px;
+ }

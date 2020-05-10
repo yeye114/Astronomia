@@ -1,0 +1,111 @@
+.carousel-inner img {
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    max-height: 460px;
+}
+.cuadrado{
+    width: 1000px;
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: 80px;
+  margin: auto;
+  background-color: white;
+ }
+ body{
+     background-image: url(https://img.freepik.com/vector-gratis/tecnologia-abstracta-fondo-gris-particulas_1035-17927.jpg?size=626&ext=jpg);
+ }
+ h1,h3{
+    color:#212F3D ;
+    font-size: 50px; 
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .p{
+    width: 900px;
+    padding: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: auto;
+    background-color: white;
+ }
+    img.derecha {
+        float: right;
+        margin-left: 50px;
+      }
+.cuadrito{
+    background-color: #4A235A;
+     }
+.cuadrito1{
+        background-color: #5499C7 ;
+         }
+.cuadrito2{
+            background-color: #0E6655 ;
+             }
+ .cuadrito3{
+    width: 1000px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin: auto;
+     background-color: #196F3D ;
+       }
+       .cuadrito3{
+           background-color: #1D8348 ;
+       }
+     h2{
+
+         color:white;
+         font-size: 30px;
+         font-family: cursive;
+     }
+.por{
+    background-image: url(https://image.freepik.com/vector-gratis/diseno-fondo-abstracto-estrellas-gris_53876-43534.jpg);
+}
+img.r {
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+  }
+  
+  img.f{
+    float: left;
+    margin-top: 25px;
+    margin-left: 90px;
+  }
+  img.t{
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+  img.pi{
+    margin-top: 25px;
+    margin-left: 110px;
+  }
+  img.y{
+    margin-top: 25px;
+    margin-left: 120px;
+  }
+  img.in{
+    margin-top: 25px;
+    margin-left: 130px;
+  }
+  img.as{
+    margin-top: 25px;
+    margin-left: 300px; 
+  }
+  img.c {
+    float: center;
+    margin-top: 50px;
+    margin-left: 150px;
+  }
+  img.l {
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+.carousel slide{
+    width: 900px;
+    }
+    .circulo{
+        background-image: url(https://static.vecteezy.com/system/resources/previews/000/625/974/non_2x/vector-geometric-abstract-grey-background-for-bussines.jpg);
+    }
